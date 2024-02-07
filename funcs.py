@@ -1,12 +1,12 @@
 def summma2x():
-    a = input("Введите первое число")
-    b = input("Введите второе число")
-    c = a + b
-    return c
+    num1 = float(input("Введите первое число: "))
+    num2 = float(input("Введите второе число: "))
+    s = num1 + num2
+    return s
 
 def vichit2x():
-    a = input("Введите первое число")
-    b = input("Введите второе число")
-    c = a - b
-    return c
+    num1 = float(input("Введите первое число: "))
+    num2 = float(input("Введите второе число: "))
+    r = num1 + num2
+    return r
 
